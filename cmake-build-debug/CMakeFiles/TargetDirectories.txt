@@ -1,0 +1,8 @@
+/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug/CMakeFiles/labactivity5.dir
+/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug/CMakeFiles/que1.dir
+/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug/CMakeFiles/que2.dir
+/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug/CMakeFiles/que3.dir
+/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug/CMakeFiles/que4.dir
+/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug/CMakeFiles/que5.dir
+/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

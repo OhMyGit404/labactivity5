@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "labactivity5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "labactivity5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-labactivity5-Debug-302cc1b5057b2daeebec.json",
+					"name" : "labactivity5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que1-Debug-798f32d870ac34874815.json",
+					"name" : "que1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que2-Debug-ff2c781a18989125b0e7.json",
+					"name" : "que2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que3-Debug-72aa8c4db95ea4bf0b62.json",
+					"name" : "que3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que4-Debug-8a35418e2b2bc3bd696d.json",
+					"name" : "que4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "que5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-que5-Debug-11709405eaa71451e71d.json",
+					"name" : "que5",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/allannguginganga./CLionProjects/labactivity5/cmake-build-debug",
+		"source" : "/Users/allannguginganga./CLionProjects/labactivity5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
